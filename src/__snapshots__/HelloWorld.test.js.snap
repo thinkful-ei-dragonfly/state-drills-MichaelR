@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<HelloWorlds /> renders without crashing [snapshot test] 1`] = `
+<div
+  className="HelloWorld"
+>
+  <p>
+    Hello, 
+    world
+  </p>
+  <button
+    onClick={[Function]}
+  >
+    World
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    Friend
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    React
+  </button>
+</div>
+`;
