@@ -1,4 +1,5 @@
 import React from 'react';
+import './Bomb.css';
 
 class Bomb extends React.Component {
   constructor(props) {
@@ -37,7 +38,7 @@ class Bomb extends React.Component {
   }
 
   render() {
-    return <div>
+    return <div className="Bomb">
       <p>{this.state.display}</p>
     </div>
   }
