@@ -4,6 +4,13 @@ exports[`<RouletteGuns /> renders without crashing [snapshot test] 1`] = `
 <div
   className="RouletteGun"
 >
-  CONTENT
+  <p>
+    Let's play Russian Roulette
+  </p>
+  <button
+    onClick={[Function]}
+  >
+    Pull the Trigger!
+  </button>
 </div>
 `;

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Accordion /> renders without crashing [snapshot test] 1`] = `
+<ul
+  className="Accordion"
+/>
+`;
+
+exports[`<Accordions /> renders without crashing [snapshot test] 1`] = `
+<ul
+  className="Accordion"
+/>
+`;
